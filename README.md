@@ -17,6 +17,8 @@ The Essential Eight are a set of baseline mitigation strategies recommended by t
 7. **Multi-Factor Authentication**: Implement additional verification methods to strengthen user authentication.
 8. **Regular Backups**: Ensure critical data is backed up and can be restored.
 
+For more information on Essential Eight, visit the [Australian Cyber Security Centre website](https://www.cyber.gov.au/resources-business-and-government/essential-cyber-security/essential-eight).
+
 ## Features of the Tracker
 
 - **Dashboard View**: A visual dashboard to quickly assess your overall implementation status.
@@ -49,9 +51,5 @@ I welcome contributions from the community to help improve this tracker. If you 
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
-
----
-
-For more information on the Essential Eight, visit the [Australian Cyber Security Centre website](https://www.cyber.gov.au/resources-business-and-government/essential-cyber-security/essential-eight).
 
 ---
