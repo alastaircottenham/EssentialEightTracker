@@ -49,7 +49,7 @@ For more information on Essential Eight, visit the [Australian Cyber Security Ce
 
 ## Contributing
 
-I welcome contributions from the community to help improve this tracker. If you have suggestions, improvements, or new features to add, please follow these steps:
+Contributions from the community are welcomed to help improve this tracker. If you have suggestions, improvements, or new features to add, please follow these steps:
 
 1. **Fork the Repository**: Create your own fork of the project.
 2. **Create a Branch**: Make a new branch for your changes.
