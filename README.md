@@ -4,6 +4,10 @@ This Excel spreadsheet is designed to help organisations track their progress in
 
 **Current version is based on the November 2023 Maturity Model.**
 
+## Disclaimer
+
+This project is a personal initiative and is not officially endorsed by the Australian Cyber Security Centre (ACSC). The Essential Eight framework is the property of ACSC, and this tool is merely a means to assist organisations in tracking the implemention of these strategies.
+
 ## What is the Essential Eight?
 
 The Essential Eight are a set of baseline mitigation strategies recommended by the Australian Cyber Security Centre (ACSC) to help organizations protect themselves from various cyber threats.
