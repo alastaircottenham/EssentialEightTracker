@@ -38,7 +38,7 @@ For more information on Essential Eight, visit the [Australian Cyber Security Ce
 ## How to Use
 
 1. **Download the Spreadsheet**: Clone the repository and open the Excel file.
-2. **Input Your Data**: Fill in your current status for each of the Essential Eight strategies.
+2. **Input Your Data**: Fill in your current status for each of the Essential Eight controls.
 3. **Review the Dashboard**: Check the dashboard for a visual summary of your implementation status.
 4. **Update Regularly**: Keep the tracker updated as you make progress in implementing the strategies.
 
