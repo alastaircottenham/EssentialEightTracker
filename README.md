@@ -1,4 +1,9 @@
-# Essential Eight Tracker
+<div align="center">
+  <a href="">
+    <img src="assets\E8.png" alt="Logo" width="80" height="80">
+  </a>
+  <h1 align="center">Essential Eight Tracker</h1>
+</div>
 
 This Excel spreadsheet is designed to help organisations track their progress in implementing the Essential Eight cybersecurity strategies. It provides a clear, easy-to-read dashboard to capture the current status of your implementation, making it easier to identify areas that need improvement and to plan your next steps.
 
