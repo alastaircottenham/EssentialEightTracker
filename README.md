@@ -33,8 +33,7 @@ For more information on Essential Eight, visit the [Australian Cyber Security Ce
 
 ![Progress Tracking](assets/PA.png)
 
-- **Auto Due Review Date**: Review due date automatically populated based on user preferences for months due.
-- **Collaboration**: Share the tracker with your team to ensure everyone is on the same page.
+- **Auto Due Review Date**: Review due date automatically populated based on user preferences.
 
 ## How to Use
 
