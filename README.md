@@ -36,7 +36,7 @@ For more information on Essential Eight, visit the [Australian Cyber Security Ce
 
 - **Progress Tracking**: Monitor your progress for each of the Essential Eight strategies.
 
-![Progress Tracking](assets/PA.png)
+![Progress Tracking](assets/PatchApplication.png)
 
 - **Auto Due Review Date**: Review due date automatically populated based on user preferences.
 
