@@ -20,7 +20,7 @@ The Essential Eight are a set of baseline mitigation strategies recommended by t
 ## Features of the Tracker
 
 - **Dashboard View**: A visual dashboard to quickly assess your overall implementation status.
-- 
+
 ![Dashboard View](assets/Dashboard.png)
 
 - **Progress Tracking**: Monitor your progress for each of the Essential Eight strategies.
