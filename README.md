@@ -56,7 +56,7 @@ Contributions from the community are welcomed to help improve this tracker. If y
 3. **Make Changes**: Implement your improvements.
 4. **Submit a Pull Request**: Send a pull request with a detailed description of your changes.
  
-Altewrnatively feel free to head over to the [Discussions Tab](https://github.com/alastaircottenham/EssentialEightTracker/discussions) to add ideas to discuss.
+Alternatively feel free to head over to the [Discussions Tab](https://github.com/alastaircottenham/EssentialEightTracker/discussions) to add ideas to discuss.
 
 
 ## License
